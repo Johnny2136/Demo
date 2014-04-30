@@ -1,7 +1,9 @@
 Demo
 ====
 
-Place holder for demo of CA/CST code standards in GitHub Wiki.
+Place holder for demo for CA/CST code in GitHub.
 
-[Demo-Code-Standards Wiki](https://github.com/Johnny2136/Demo/wiki)
+Wiki moved to:
+
+[Demo-Code-Standards Wiki](https://github.com/CA-CST-SII/Software-Standards)
 
