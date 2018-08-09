@@ -1,3 +1,18 @@
+@snayaks, @shaye03  and @dmwegner, Please review:
+(for those not markdown savvy:
+
+- [x]  I will post the concat version of excel in [Documentation Repo.](https://github.com/CS-C-BDD-TDD/CICDpilot_Documentation).
+
+Reviewers:
+
+- [ ] @dmwegner Doug  Complete (All: don't forget to update lower right green button)
+
+- [x] @johnny2136 Johnny Complete
+
+- [ ] @nayaks  Sameer Complete
+
+- [ ] @shaye03  Shaye Complete
+
 | Comment # | Comments:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    | Adjudication:                                                                                                                                                                                                                                                                                                                    |
 |-----------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 1.1       | Harold Schliesske - 1. From discussions with Mike Gordon and Kiet Tran, I'd recommend both of them be explicitly identified as System Sustainment Technical liaisons. As such, their role would be to provide some real-world experience to the effort. This designation allows them to contribute but acknowledges they aren't leading the effort and thus won't be doing this full time. 2. Who is paying for the AWS usage? 3. Is this a risk given our feedback from Sang-Im to date on un-clear AWS cost concerns?                                                                                                                                                                             | 1. Mike Gordon and Kiet have been looped in. 2. AWS is being procured for the project by Raytheon. 3. No                                                                                                                                                                                                                                     |
